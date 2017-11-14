@@ -1,5 +1,7 @@
 h1 {
   color: white;
+  font-size: 40px;
+  font-family: sans-serif;
 }
 
 
@@ -21,8 +23,15 @@ ul {
   line-height: 30px;
 }
 a {
+  font-size: 20px;
   color: #FAF8D2;
+  font-family: serif;
+  font-weight: bold;
+}
+a:hover {
+  color: red;
 }
 body{
-  background-color: #303030;
+  background-color: #6E0505;
+  margin: 0px 60px 0px 60px;
 }
